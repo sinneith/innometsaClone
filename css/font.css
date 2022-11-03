@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+/* notosans-kr */
+@font-face {
+    font-family: NotoSansKr;
+    font-weight: 400;
+    src: local(※), url(../fonts/NotoSansKR-Regular.woff) format('woff');
+}
+@font-face {
+    font-family: NotoSansKr;
+    font-weight: 500;
+    src: local(※), url(../fonts/NotoSansKR-Medium.woff) format('woff');
+}
+@font-face {
+    font-family: NotoSansKr;
+    font-weight: 700;
+    src: local(※), url(../fonts/NotoSansKR-Bold.woff) format('woff');
+}
+
+
+/* roboto */
+@font-face {
+    font-family: Roboto;
+    font-weight: 400;
+    src: local(※), url(../fonts/Roboto-Medium.woff) format('woff');
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 500;
+    src: local(※), url(../fonts/Roboto-Regular.woff) format('woff');
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 700;
+    src: local(※), url(../fonts/Roboto-Bold.woff) format('woff');
+}
+
+/* tenorSans */
+@font-face {
+    font-family: TenorSans;
+    font-weight: 400;
+    src: local(※), url(../fonts/TenorSans-Regular.woff) format('woff');
+}
